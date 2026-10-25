@@ -1,4 +1,4 @@
-# Hi, I'm Letícia! 👋
+# Hi, I'm Letícia! 
 
 ADS student | Learning Java ☕
 
