@@ -10,7 +10,8 @@ I'm starting my journey in software development and exploring the world of progr
 - Git & GitHub
 
 # A little about me
-- 🎓 Studying Analysis and Systems Development (ADS)
+- 🎓 Studying Analysis and Systems Development (ADS) PUC GOIÁS|2026 Present
+
 - 💻 Building my first programming projects
 - 🌱 Always learning and improving
 
